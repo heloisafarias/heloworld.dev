@@ -1,0 +1,43 @@
+* {
+background-color: black;
+color: greenyellow;
+font-family: 'IBM Plex Mono', monospace;
+margin-left: 1%;
+}
+body, #overlay {
+    background: black;
+}
+.dinogif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.iconPhoto {
+   float:left;
+   margin-right: 20px;
+
+} 
+   
+   
+p {
+    font-size: 18px;
+    width: 1000px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.icons {
+    width: 50px;
+}
+.logos {
+    width: 200px;
+}
+
+.fotos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
